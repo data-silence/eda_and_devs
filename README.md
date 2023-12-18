@@ -10,7 +10,7 @@
 ## About
 This project is developed as part of the ["Exploratory data analysis"](https://stepik.org/course/177213) course created by [AI Education](https://stepik.org/course/177213).
 
-The purpose of the project is to investigate the consumer behavior of online shoppers using data-science tools.
+The aim of the project is to investigate the consumer behavior of online shopping customers using data-science tools.
 
 Through notebook research, an optimal predictive model of customer behavior was selected. 
 
